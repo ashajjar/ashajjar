@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 My journey into the world of programming commenced back in 1999 when I was 14-year-old. I was intrigued by my father's cousin, who was tirelessly working on a program for my father's shop. I would often find myself seated beside him, observing his mysterious strokes of words and phrases on the computer screen.
 
 I recall once asking him about a line that looked puzzling to me: "What does this 'i=i+1' mean? It seems nonsensical." He replied, somewhat dismissively, "Even if I explained, you wouldn't comprehend." That retort felt like a challenge to me, as if he was daring me to delve into learning Visual Basic programming.
@@ -13,7 +14,7 @@ Though Visual Basic served as my gateway into the world of programming, I firmly
 As I look ahead, my ambition is to continue enhancing my skills and applying them to a range of diverse and challenging scenarios. I am keen to cultivate an atmosphere of teamwork and cooperation, sharing my knowledge and experience with others, while also learning from the unique perspectives they bring. My aspiration is to contribute positively to innovative endeavors that can have a meaningful impact on the world. Regardless of where my journey takes me, my ultimate goal remains the same: to create and be part of projects that, through inventive breakthroughs and accomplishments, reshape the world in some significant way.
 
 
-<!--
+
 **ashajjar/ashajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
