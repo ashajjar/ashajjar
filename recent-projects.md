@@ -16,4 +16,3 @@ An interactive math-learning app designed for young learners, focusing on core a
 <p align="center">
   <img src="./kids-math.png" alt="Kids Math App" width="300"/>
 </p>
-d
