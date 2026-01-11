@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Welcome to my GitHub!
+
+I’m a software engineer who enjoys building and running real-world systems. While most of my work focuses on backend development and distributed services, I’m comfortable building end to end and have done so on multiple projects. I care about keeping systems reliable, performant, and maintainable over time.
+
+You can find an overview of some of my recent work here: [Recent Projects](recent-projects.md)
+
 <!--
 My journey into the world of programming commenced back in 1999 when I was 14-year-old. I was intrigued by my father's cousin, who was tirelessly working on a program for my father's shop. I would often find myself seated beside him, observing his mysterious strokes of words and phrases on the computer screen.
 
