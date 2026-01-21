@@ -14,5 +14,7 @@ A lightweight educational app focused on daily vocabulary building for children.
 An interactive math-learning app designed for young learners, focusing on core arithmetic skills through repetition. The project prioritizes clarity, fast feedback, and a distraction-free experience suitable for children. Give it a try here: https://kids-math.ahmadhajjar.me/
 
 <p align="center">
-  <img src="./kids-math.png" alt="Kids Math App" width="300"/>
+  <img src="./kids-math-1.png" alt="Kids Math App" width="220"/>
+  <img src="./kids-math-2.png" alt="Kids Math App" width="220"/>
+  <img src="./kids-math-3.png" alt="Kids Math App" width="220"/>
 </p>
